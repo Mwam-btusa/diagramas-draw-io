@@ -3,3 +3,6 @@
 no programa de mobile. fazer a decoração externa a 
 contenção do mapa criar um nova blanch e depois 
 fazer o merge 
+
+20-50
+testes para deixar todos os arquivos privados
